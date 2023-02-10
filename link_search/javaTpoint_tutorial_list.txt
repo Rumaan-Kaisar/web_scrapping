@@ -1,0 +1,464 @@
+// edited. Collecting "javaTpoint" links
+var groups = document.querySelectorAll(".gra1");
+
+// var links = document.querySelectorAll("a");
+
+for (var i = 0; i < groups.length; i++) {
+  var Heading = groups[i].querySelectorAll(" .h3")[0].textContent;
+  var links = groups[i].querySelectorAll("a");
+
+  console.log("----------  "+ Heading);
+
+  for (var k = 0; k < links.length; k++) {
+    var link = links[k].getAttribute("href");
+    console.log(link);
+  }
+  
+}
+
+
+-------------------------- links --------------------------
+
+----------  Latest Tutorials
+    https://www.javatpoint.com/splunk
+    https://www.javatpoint.com/spss
+    https://www.javatpoint.com/swagger
+    https://www.javatpoint.com/t-sql
+    https://www.javatpoint.com/tumblr
+    https://www.javatpoint.com/reactjs-tutorial
+    https://www.javatpoint.com/regex
+    https://www.javatpoint.com/reinforcement-learning
+    https://www.javatpoint.com/r-tutorial
+    https://www.javatpoint.com/rxjs
+    https://www.javatpoint.com/react-native-tutorial
+    https://www.javatpoint.com/python-design-pattern
+    https://www.javatpoint.com/python-pillow
+    https://www.javatpoint.com/python-turtle-programming
+    https://www.javatpoint.com/keras
+    
+    
+    
+    VM1686:10 ----------  Trending Technologies
+    
+    https://www.javatpoint.com/artificial-intelligence-tutorial
+    https://www.javatpoint.com/aws-tutorial
+    https://www.javatpoint.com/selenium-tutorial
+    https://www.javatpoint.com/cloud-computing-tutorial
+    https://www.javatpoint.com/hadoop-tutorial
+    https://www.javatpoint.com/reactjs-tutorial
+    https://www.javatpoint.com/data-science
+    https://www.javatpoint.com/angular-7-tutorial
+    https://www.javatpoint.com/blockchain-tutorial
+    https://www.javatpoint.com/git
+    https://www.javatpoint.com/machine-learning
+    https://www.javatpoint.com/devops
+    
+    
+    
+    VM1686:10 ----------  Preparation
+    
+    https://www.javatpoint.com/aptitude/quantitative
+    https://www.javatpoint.com/reasoning
+    https://www.javatpoint.com/verbal-ability
+    interview-questions-and-answers
+    https://www.javatpoint.com/company-interview-questions-and-recruitment-process
+    
+    
+    
+    VM1686:10 ----------  B.Tech / MCA
+    
+    https://www.javatpoint.com/dbms-tutorial
+    https://www.javatpoint.com/data-structure-tutorial
+    https://www.javatpoint.com/daa-tutorial
+    https://www.javatpoint.com/os-tutorial
+    https://www.javatpoint.com/computer-network-tutorial
+    https://www.javatpoint.com/compiler-tutorial
+    https://www.javatpoint.com/computer-organization-and-architecture-tutorial
+    https://www.javatpoint.com/discrete-mathematics-tutorial
+    https://www.javatpoint.com/ethical-hacking-tutorial
+    https://www.javatpoint.com/computer-graphics-tutorial
+    https://www.javatpoint.com/software-engineering-tutorial
+    https://www.javatpoint.com/html-tutorial
+    https://www.javatpoint.com/cyber-security-tutorial
+    https://www.javatpoint.com/automata-tutorial
+    https://www.javatpoint.com/c-programming-language-tutorial
+    https://www.javatpoint.com/cpp-tutorial
+    https://www.javatpoint.com/java-tutorial
+    https://www.javatpoint.com/net-framework
+    https://www.javatpoint.com/python-tutorial
+    https://www.javatpoint.com/programs-list
+    https://www.javatpoint.com/control-system-tutorial
+    https://www.javatpoint.com/data-mining
+    https://www.javatpoint.com/data-warehouse
+    
+    
+    
+    VM1686:10 ----------  Cloud Technologies
+    
+    cloud-computing-tutorial
+    https://www.javatpoint.com/aws-tutorial
+    https://www.javatpoint.com/microsoft-azure
+    https://www.javatpoint.com/salesforce
+    https://www.javatpoint.com/google-cloud-platform
+    
+    
+    
+    VM1686:10 ----------  Testing Tutorials
+    
+    https://www.javatpoint.com/software-testing-tutorial
+    https://www.javatpoint.com/selenium-tutorial
+    https://www.javatpoint.com/agile
+    https://www.javatpoint.com/jira-tutorial
+    https://www.javatpoint.com/bugzilla
+    https://www.javatpoint.com/etl-testing
+    jmeter-tutorial
+    https://www.javatpoint.com/quality-assurance
+    https://www.javatpoint.com/testng-tutorial
+    https://www.javatpoint.com/automation-anywhere
+    https://www.javatpoint.com/uipath
+    https://www.javatpoint.com/selenium-python
+    https://www.javatpoint.com/postman
+    junit-tutorial
+    https://www.javatpoint.com/soapui
+    https://www.javatpoint.com/rpa
+    https://www.javatpoint.com/manual-testing
+    https://www.javatpoint.com/cucumber-testing
+    https://www.javatpoint.com/appium
+    
+    
+    
+    VM1686:10 ----------  Python Tutorials
+    
+    python-tutorial
+    django-tutorial
+    https://www.javatpoint.com/flask-tutorial
+    https://www.javatpoint.com/numpy-tutorial
+    https://www.javatpoint.com/python-tkinter
+    https://www.javatpoint.com/pytorch
+    https://www.javatpoint.com/pygame
+    https://www.javatpoint.com/python-scipy
+    https://www.javatpoint.com/python-pandas
+    https://www.javatpoint.com/opencv
+    https://www.javatpoint.com/matplotlib
+    https://www.javatpoint.com/python-openpyxl
+    https://www.javatpoint.com/selenium-python
+    https://www.javatpoint.com/kivy
+    https://www.javatpoint.com/jupyter-notebook
+    
+    
+    
+    VM1686:10 ----------  Java Technology
+    
+    java-tutorial
+    servlet-tutorial
+    jsp-tutorial
+    spring-boot-tutorial
+    spring-tutorial
+    hibernate-tutorial
+    design-patterns-in-java
+    java-web-services-tutorial
+    struts-2-tutorial
+    https://www.javatpoint.com/restful-web-services-tutorial
+    https://www.javatpoint.com/microservices
+    https://www.javatpoint.com/spring-cloud
+    https://www.javatpoint.com/jenkins
+    java-swing
+    javafx-tutorial
+    maven-tutorial
+    apache-poi-tutorial
+    jsf-tutorial
+    ejb-tutorial
+    jstl
+    primefaces-tutorial
+    jdb-tutorial
+    apache-ant-tutorial
+    jpa-tutorial
+    java-mail-api-tutorial
+    jsoup-tutorial
+    jaxb-tutorial
+    java-io
+    java-awt
+    collections-in-java
+    java-date
+    richfaces-tutorial
+    jfreechart-tutorial
+    java-9-features
+    java-8-features
+    jogl-tutorial
+    tika-tutorial
+    jbpm-tutorial
+    pdfbox-tutorial
+    https://www.javatpoint.com/intellij-idea-tutorial
+    
+    
+    
+    VM1686:10 ----------  Database Tutorials
+    
+    sql-tutorial
+    pl-sql-tutorial
+    mysql-tutorial
+    mongodb-tutorial
+    postgresql-tutorial
+    sql-server-tutorial
+    oracle-tutorial
+    cassandra-tutorial
+    sqlite-tutorial
+    neo4j-tutorial
+    couchdb-tutorial
+    mariadb-tutorial
+    db2-tutorial
+    pouchdb-tutorial
+    redis-tutorial
+    
+    
+    
+    VM1686:10 ----------  Web Technology
+    
+    html-tutorial
+    css-tutorial
+    javascript-tutorial
+    jquery-tutorial
+    jquery-ui-tutorial
+    php-tutorial
+    xml-tutorial
+    json-tutorial
+    ajax-tutorial
+    web-services-tutorial
+    bootstrap-tutorial
+    angularjs-tutorial
+    nodejs-tutorial
+    expressjs-tutorial
+    backbonejs-tutorial
+    sass-tutorial
+    less-tutorial
+    xslt-tutorial
+    xpath-tutorial
+    xquery-tutorial
+    xhtml-tutorial
+    pure-css-tutorial
+    materialize-css-tutorial
+    framework7-tutorial
+    https://www.javatpoint.com/http-tutorial
+    https://www.javatpoint.com/dhtml
+    
+    
+    
+    VM1686:10 ----------  PHP Tutorials
+    
+    php-tutorial
+    https://www.javatpoint.com/laravel
+    wordpress-tutorial
+    codeigniter-tutorial
+    https://www.javatpoint.com/magento-2
+    https://www.javatpoint.com/joomla
+    phalcon-tutorial
+    yii-tutorial
+    https://www.javatpoint.com/xampp
+    
+    
+    
+    VM1686:10 ----------  Office Tools
+    
+    excel-tutorial
+    ms-word-tutorial
+    powerpoint-tutorial
+    https://www.javatpoint.com/onenote
+    https://www.javatpoint.com/vba
+    https://www.javatpoint.com/power-bi
+    https://www.javatpoint.com/qlikview
+    https://www.javatpoint.com/powershell
+    https://www.javatpoint.com/google-classroom
+    https://www.javatpoint.com/smartsheet
+    
+    
+    
+    VM1686:10 ----------  .Net Technologies
+    
+    net-framework
+    c-sharp-tutorial
+    asp-net-tutorial
+    ado-net-tutorial
+    wpf
+    https://www.javatpoint.com/ssrs
+    https://www.javatpoint.com/ssis
+    https://www.javatpoint.com/web-api
+    https://www.javatpoint.com/linq
+    https://www.javatpoint.com/sharepoint
+    f-sharp-tutorial
+    vb-net
+    
+    
+    
+    VM1686:10 ----------  Popular Tutorials
+    
+    c-programming-language-tutorial
+    cpp-tutorial
+    android-tutorial
+    computer-fundamentals-tutorial
+    linux-tutorial
+    vi-editor
+    embedded-system-tutorial
+    robotics-tutorial
+    seo-tutorial
+    shell-scripting-tutorial
+    mathml-tutorial
+    perl-tutorial
+    scala-tutorial
+    ruby-tutorial
+    ruby-on-rails-tutorial
+    docker-tutorial
+    gwt-tutorial
+    go-tutorial
+    software-installation-in-ubuntu
+    software-installation-on-mac
+    software-installation-on-centos
+    svg-tutorial
+    polymer-tutorial
+    kotlin-tutorial
+    https://www.javatpoint.com/rust-tutorial
+    https://www.javatpoint.com/control-system-tutorial
+    https://www.javatpoint.com/typescript-tutorial
+    https://www.javatpoint.com/pig
+    https://www.javatpoint.com/swift-tutorial
+    https://www.javatpoint.com/apache-spark-tutorial
+    https://www.javatpoint.com/digital-image-processing-tutorial
+    https://www.javatpoint.com/mobile-communication-tutorial
+    https://www.javatpoint.com/sas-tutorial
+    https://www.javatpoint.com/electrical-machines-tutorial
+    https://www.javatpoint.com/hive
+    https://www.javatpoint.com/tableau
+    https://www.javatpoint.com/nginx-tutorial
+    https://www.javatpoint.com/log4j
+    https://www.javatpoint.com/bash
+    https://www.javatpoint.com/r-tutorial
+    https://www.javatpoint.com/git
+    https://www.javatpoint.com/wireshark
+    https://www.javatpoint.com/xamarin
+    https://www.javatpoint.com/tensorflow
+    https://www.javatpoint.com/vhdl
+    https://www.javatpoint.com/ionic
+    https://www.javatpoint.com/nlp
+    https://www.javatpoint.com/latex
+    https://www.javatpoint.com/inkscape
+    https://www.javatpoint.com/matlab
+    https://www.javatpoint.com/github
+    https://www.javatpoint.com/unity
+    https://www.javatpoint.com/svn
+    https://www.javatpoint.com/reinforcement-learning
+    https://www.javatpoint.com/apache-kafka
+    https://www.javatpoint.com/kali-linux
+    https://www.javatpoint.com/talend
+    https://www.javatpoint.com/mockito
+    https://www.javatpoint.com/ansible
+    https://www.javatpoint.com/firebase
+    https://www.javatpoint.com/cobol
+    https://www.javatpoint.com/es6
+    https://www.javatpoint.com/flutter
+    https://www.javatpoint.com/gradle
+    https://www.javatpoint.com/uml
+    https://www.javatpoint.com/artificial-neural-network
+    https://www.javatpoint.com/tally
+    https://www.javatpoint.com/godot
+    https://www.javatpoint.com/autocad
+    https://www.javatpoint.com/kubernetes
+    https://www.javatpoint.com/puppet
+    https://www.javatpoint.com/math
+    https://www.javatpoint.com/gdb
+    https://www.javatpoint.com/fuzzy-logic
+    https://www.javatpoint.com/proc
+    https://www.javatpoint.com/social-media-marketing
+    https://www.javatpoint.com/affiliate-marketing
+    https://www.javatpoint.com/arduino
+    https://www.javatpoint.com/digital-electronics
+    https://www.javatpoint.com/google-adwords
+    https://www.javatpoint.com/ext-js
+    https://www.javatpoint.com/graphql
+    https://www.javatpoint.com/iot-internet-of-things
+    https://www.javatpoint.com/gmail
+    https://www.javatpoint.com/vue-js
+    https://www.javatpoint.com/landing-pages
+    https://www.javatpoint.com/plc
+    https://www.javatpoint.com/adobe-illustrator
+    https://www.javatpoint.com/memcached-tutorial
+    https://www.javatpoint.com/apache-solr
+    https://www.javatpoint.com/gimp
+    https://www.javatpoint.com/verilog
+    https://www.javatpoint.com/teradata
+    https://www.javatpoint.com/phonegap
+    https://www.javatpoint.com/bootstrap-4
+    https://www.javatpoint.com/what-is-google-chrome
+    https://www.javatpoint.com/dart-programming
+    https://www.javatpoint.com/adobe-after-effect
+    https://www.javatpoint.com/adobe-dreamweaver
+    https://www.javatpoint.com/coreldraw
+    https://www.javatpoint.com/adobe-indesign
+    https://www.javatpoint.com/audacity
+    https://www.javatpoint.com/blue-prism
+    https://www.javatpoint.com/python-cgi-programming
+    https://www.javatpoint.com/apache-cordova
+    https://www.javatpoint.com/d3-js
+    https://www.javatpoint.com/dialogflow
+    https://www.javatpoint.com/ionic
+    https://www.javatpoint.com/itil
+    https://www.javatpoint.com/ios-development-using-swift
+    https://www.javatpoint.com/angular-material
+    https://www.javatpoint.com/deep-learning
+    https://www.javatpoint.com/python-programming-with-google-colab
+    https://www.javatpoint.com/graph-theory-tutorial
+    https://www.javatpoint.com/groovy
+    https://www.javatpoint.com/group-discussion
+    https://www.javatpoint.com/informatica
+    https://www.javatpoint.com/digital-marketing
+    https://www.javatpoint.com/elasticsearch
+    https://www.javatpoint.com/entity-framework
+    https://www.javatpoint.com/firewall
+    https://www.javatpoint.com/functional-programming
+    https://www.javatpoint.com/photoshop
+    https://www.javatpoint.com/prolog
+    https://www.javatpoint.com/progressive-web-applications
+    https://www.javatpoint.com/pyspark
+    https://www.javatpoint.com/nagios
+    https://www.javatpoint.com/apache-nifi
+    https://www.javatpoint.com/online-marketing
+    https://www.javatpoint.com/openstack
+    https://www.javatpoint.com/pdf
+    https://www.javatpoint.com/kibana
+    https://www.javatpoint.com/mean-stack
+    https://www.javatpoint.com/microprocessor-tutorial
+    https://www.javatpoint.com/mobile-computing
+    https://www.javatpoint.com/mobile-application-testing
+    
+    
+    
+    VM1686:10 ----------  Miscellaneous Topics
+    
+    interview-questions-and-answers
+    free-java-projects
+    forum
+    examaccess
+    opr/online-java-compiler.jsp
+    
+    
+    
+    VM1686:10 ----------  Non-Technical Topics
+    
+    full-form
+    difference-between
+    holidays/holidays
+    how-to-lose-weight
+    hr-tutorial
+    marketing-tutorial
+    https://www.quoteperson.com
+    
+    
+    
+    VM1686:10 ----------  American
+    
+    holidays/american-holidays
+    
+    
+    
+    VM1686:10 ----------  India
+    
+    india-pin-codes
+    ifsc-code
