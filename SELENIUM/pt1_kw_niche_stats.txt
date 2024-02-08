@@ -1,0 +1,276 @@
+
+
+--------------------    niche research    --------------------
+
+niche = logo design, 250,000+ gigs
+
+sub_niche = 
+
+key_wrd_suggestions = 
+
+
+-_-_-    sub niche 1    -_-_-
+sub_niche_1 = 
+total_gigs = 
+
+
+-=-=-=-=-    first 2 page    -=-=-=-=-
+top_rated = 
+level_2 = 
+level_1 = 
+new = 
+
+
+-=-=-=-=-    gig data    -=-=-=-=-
+    ***     3 top, 
+    ***     3 level-2, 
+    ***     3 level-1, 
+    ***     4 new seller
+
+on-going/pending_orders in queue = [{}, {}, {}, {}]
+Number of done orders = [{}, {}, {}, {}]
+
+packages
+Delivery time = [{}, {}, {}, {}]
+# (basic, standared, premium)
+budget = [{(), (), ()}, {(), (), ()}, {(), (), ()}, {(), (), (), ()}]
+other package offers = [{}, {}, {}, {}]
+
+TITLE = [{}, {}, {}, {}]
+
+TAGS = [{}, {}, {}, {}]
+
+
+
+
+
+
+-----------------------------------------------------------------------
+niche = logo design, 250,000+ gigs
+        (tp, L2, L1, nw) = ()
+
+====  sub_niche ====
+Minimalist: 102,035 (observe)
+Vintage: 32,839
+Cartoon: 12,495 
+Lettering: 8,357 (see)
+Signature: 5,942 (see)
+Geometric: 2,397 (see)
+
+Modern: 52,035  (probable)
+3D: 17,817
+Other: 9,607
+Hand-drawn: 8,243 (see)
+Watercolor: 2,838 (see)
+
+
+
+--------    Seller level    --------
+Top Rated Seller (956) 
+Level 1 (16,638)
+Level 2 (24,324)
+New Seller (214,624)
+
+Seller availability: Online Now (13,113) 7:30 pm BD
+
+
+--------    lang    --------
+English (248,216)
+Urdu (29,557)
+Hindi (16,981)	
+Spanish (16,827)
+Arabic (12,782)	
+Bengali (10,579)
+French (10,203)
+
+
+--------    country    --------
+Bangladesh (24,957)
+United States (10,607)
+United Kingdom 47,166)
+Argentina (3,533)
+Brazil (2,922)
+Equador (2,857)
+India (11,687)
+Indonesia (8,723)
+Laos (2,660)
+Mexico (3,756)
+Nigeria (2,605)
+Peru (3,094)
+Philppine (2K)
+Portugal (2K)
+S africa (3,115)
+Sri Lanka (6,832)
+Thailand (2,892)
+Turkey (2K)
+Venezuela (2.5k)
+Ukrane (2,889)
+
+
+
+
+--------    File format    --------
+PNG (234,236) 
+PDF (219,285) 
+PSD (192,143) 
+SVG (179,892)
+JPG (234,035) 
+AI (205,817) 
+EPS (187,462) 
+CDR (138,623)
+Other (2,159)
+
+most common: [PNG, PDF, PSD, SVG, JPG, AI, EPS]
+
+
+--------    Service Includes    --------
+Logo transparency (242,770) 
+Vector file (233,664)
+Include 3D mockup (217,890)
+Stationery designs (169,823)
+Printable file (236,394)
+Include source file (230,733)
+Include social media kit (188,523)
+
+
+--------    Budget    --------
+Value Under $40 
+Mid-range $40 - $80 
+High-end $80 & Above
+
+To cover max [35, 60, 100 or 90]
+
+
+--------    Delivery time    --------
+Express 24H 
+Up to 3 days 
+Up to 7 days 
+Anytime
+
+
+
+
+------------------------
+Minimalist: 102,035
+    (tp, L2, L1, nw) = ()
+
+Vintage: 32,839
+    (tp, L2, L1, nw) = ()
+
+Cartoon: 12,495
+    (tp, L2, L1, nw) = ()
+
+Lettering: 8,357
+    (tp, L2, L1, nw) = ()
+
+Signature: 5,942
+    (tp, L2, L1, nw) = ()
+
+Geometric: 2,397
+    (tp, L2, L1, nw) = ()
+
+
+Modern: 52,035
+    (tp, L2, L1, nw) = ()
+
+3D: 17,81
+    (tp, L2, L1, nw) = ()
+
+Other: 9,60
+    (tp, L2, L1, nw) = ()
+
+Hand-drawn: 8,243
+    (tp, L2, L1, nw) = ()
+
+Watercolor: 2,838
+    (tp, L2, L1, nw) = ()
+
+
+**************************************************************************************
+(total, tp, L2, L1, nw) = ()
+key_wrd_suggestions = 
+                    Minimalist (secondary), modern (main/primary), modern minimalist, 
+[lo, loh]
+logo design :   (190000, 827, 20805, 14035, 155995)
+logo:   (280000, 1327, 33213, 22322, 232284)
+wordmark logo :     (1400, 6, 194, 209, 1024)
+best logo designer :    (110000, 674, 16084, 11319, nw)
+logo redesign :     (total, tp, L2, L1, nw)
+animated logo intro video :     (total, tp, L2, L1, nw)
+logo and brand Identity :   (total, tp, L2, L1, nw)
+logo design business:   (total, tp, L2, L1, nw)
+real estate logo design :   (total, tp, L2, L1, nw)
+streetwear logo design :    (total, tp, L2, L1, nw)
+restaurant logo design :    (total, tp, L2, L1, nw)
+sports logo design :    (total, tp, L2, L1, nw)
+minimalist business logo design :   (total, tp, L2, L1, nw)
+
+letter logo design
+lettermark logo
+
+[minimal logo]
+minimal logo 
+minimal logo design 
+minimalist gaming logo 
+minimalist business logo design 
+modern minimalist business logo design 
+esports minimalist logo 
+minimalist business logo 
+flat minimalist logo
+
+[fla logo]
+flat logo
+flat minimalist logo 
+farm logo 
+fashion brand logo 
+fantasy logo 
+fashion logo design 
+facebook logo 
+flower logo
+
+[mod logo]
+modern logo
+modern minimalist business logo design
+motion graphics logo
+motorsport logo
+social media logo
+motion logo
+monogram logo
+modify logo
+
+**************************************************************************************
+
+
+
+
+
+-_-_-    sub niche 1    -_-_-
+sub_niche_1 = 
+total_gigs = 
+
+
+-=-=-=-=-    first 2 page    -=-=-=-=-
+top_rated = 
+level_2 = 
+level_1 = 
+new = 
+
+
+-=-=-=-=-    gig data    -=-=-=-=-
+    ***     3 top, 
+    ***     3 level-2, 
+    ***     3 level-1, 
+    ***     4 new seller
+
+on-going/pending_orders in queue = [{}, {}, {}, {}]
+Number of done orders = [{}, {}, {}, {}]
+
+packages
+Delivery time = [{}, {}, {}, {}]
+# (basic, standared, premium)
+budget = [{(), (), ()}, {(), (), ()}, {(), (), ()}, {(), (), (), ()}]
+other package offers = [{}, {}, {}, {}]
+
+TITLE = [{}, {}, {}, {}]
+
+TAGS = [{}, {}, {}, {}]
