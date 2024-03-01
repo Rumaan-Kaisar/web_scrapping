@@ -1,0 +1,132 @@
+
+list_1 = [
+    {
+        "competitor_name": "onpseStordgiiSe6329i2hmt42c7h91r ic2lmlef,02c2pb2h8e0l5u36 8",
+        "Extracted_number": "167",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308777881_871534893828654_923035329057494861_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=c42490&_nc_ohc=xwQSb5BeHSwAX8ny1x0&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDTec25isgDeZehYqqsT3MlX0LU5YwpuJLLp-twqJpOMg&oe=65E69410"
+        ]
+    },
+    {
+        "competitor_name": "Mahfuzur Rahman",
+        "Extracted_number": "93",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308570000_430881072480880_4560096973654022019_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=c42490&_nc_ohc=s6-YMnr-7LUAX8I9BDp&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDg0wi76jmW6zN1fKPkL0EzivGkmbvJ1hhTgGbThW-u6Q&oe=65E6527A"
+        ]
+    },
+    {
+        "competitor_name": "Logo Design Contest",
+        "Extracted_number": "53",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/305140967_194331602975881_1252627623264205660_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c42490&_nc_ohc=C9KB_T18mxUAX-06NcT&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAVKRVhy783MLg2IuLWpM-ruOZTQUwEAb_6gI5Uk08WuQ&oe=65E5FA70"
+        ]
+    },
+    {
+        "competitor_name": "Sabbir Oli",
+        "Extracted_number": "84",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308433124_1761648804201279_7679292741840077136_n.jpg?stp=dst-jpg_s600x600&_nc_cat=104&ccb=1-7&_nc_sid=c42490&_nc_ohc=7SHAiBnxpjYAX_1dWqz&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCaAqN3U_wEaumeMX4d7ynKOJaSWBiV0NBV2mkKhGQW8A&oe=65E6E0BE",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308625278_1761649817534511_5522785995401769819_n.jpg?stp=dst-jpg_s600x600&_nc_cat=106&ccb=1-7&_nc_sid=c42490&_nc_ohc=5htbzcWt8rIAX_jK8QA&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA5iZaB1zFYzC76bAFUSopFgVUiuG97FtD44nI8ZD2H8g&oe=65E61345",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308391913_1761649960867830_4491722231452571265_n.jpg?stp=dst-jpg_p526x395&_nc_cat=104&ccb=1-7&_nc_sid=c42490&_nc_ohc=H5Z_HUCxb7oAX-rQaNq&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAQb_5nmK5Y_r6I0LLXNc7BVnR1v1NXuD3vdPiz0QP0NQ&oe=65E7A0D1",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308118611_1761649994201160_8433573401275980762_n.jpg?stp=dst-jpg_s600x600&_nc_cat=107&ccb=1-7&_nc_sid=c42490&_nc_ohc=QXuO2KQ4wVgAX-B1qqd&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBO1ZJZ5q_g8UWiro05cuCH9Q0GXvxl7XwFH1G51lMkgA&oe=65E6DF80",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308363383_1761650124201147_8846072542712654436_n.jpg?stp=dst-jpg_p526x395&_nc_cat=100&ccb=1-7&_nc_sid=c42490&_nc_ohc=gA_2kMkg_x8AX_icWNk&_nc_ht=scontent.fdac8-1.fna&oh=00_AfB1XbamyPBEvoqDqAoRt7ZkHnIChElOcZZANmWU5va6Zg&oe=65E7D03C"
+        ]
+    },
+    {
+        "competitor_name": "Md Masum Ali",
+        "Extracted_number": "8",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308559943_1915234692145446_1354022601165618568_n.jpg?stp=dst-jpg_p600x600&_nc_cat=103&ccb=1-7&_nc_sid=c42490&_nc_ohc=oXKVVX9M7rsAX_2xjBC&_nc_ht=scontent.fdac8-1.fna&oh=00_AfB-jIUx9IihdlPw6w0ih_40zTXcBtP-e-cYlYw8VYmJcQ&oe=65E7462B",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308634052_1915234825478766_4774272236314076584_n.jpg?stp=dst-jpg_s600x600&_nc_cat=109&ccb=1-7&_nc_sid=c42490&_nc_ohc=zSDPBbgDRVIAX_GzFIQ&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBnuZ6a0TLK-ZhV2cupI1IHKe4a37U2WuRHwEeDtSY1FQ&oe=65E746B8",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308475920_1915234965478752_7587081538985760576_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=c42490&_nc_ohc=vVuKbK_NUT0AX8VPwy1&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCUUDWor4wZM_EOWy5MlZwGWG5GjGV7OFe0uKSUiIUKiw&oe=65E6CB2D",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308509121_1915235175478731_8415055853860202080_n.jpg?stp=dst-jpg_s600x600&_nc_cat=106&ccb=1-7&_nc_sid=c42490&_nc_ohc=nDn98EH3DBUAX_WMvDP&_nc_oc=AQnspssTv3C4Jpm7BSlAw0qNyPgzbD6rEFWeyckiHzTjdwb5VpYi-PhRWt2ZJZ7eiZY&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBSgGQuq1rfvGL0uGstA62d1FO_Au9lj4iTcPt6UlXccw&oe=65E78951",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308413019_1915235278812054_5331642727011541011_n.jpg?stp=dst-jpg_p600x600&_nc_cat=109&ccb=1-7&_nc_sid=c42490&_nc_ohc=HCT5nHcnmj0AX_L5S8F&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDes4l26H8ZwtC-seSoysam_LqDjbOyIq8WtMAzO--C5w&oe=65E709CA"
+        ]
+    },
+    {
+        "competitor_name": "Srabon Shahriar",
+        "Extracted_number": "75",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308441086_1238951566895647_5694046277795900443_n.jpg?stp=dst-jpg_p600x600&_nc_cat=107&ccb=1-7&_nc_sid=c42490&_nc_ohc=_K_c8l0lmAgAX-6ES1O&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD7QIV4bkaW6ZEvOAn5zBBKk8TrD6RolO9oLq4zXKobTA&oe=65E6E0CD",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308419120_1238951703562300_2989575151771556346_n.jpg?stp=dst-jpg_p600x600&_nc_cat=109&ccb=1-7&_nc_sid=c42490&_nc_ohc=Y4ubQ-4ESsMAX_23BZi&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBLl_LnXy6eNSAsXQMD85G4dW-ZTCZBRQ8mQNqzMJa1qg&oe=65E66B6C",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308579538_1238951943562276_3231320431938910946_n.jpg?stp=dst-jpg_s851x315&_nc_cat=101&ccb=1-7&_nc_sid=c42490&_nc_ohc=oI-9FO2zynoAX_baTkP&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD5O1hpHP_ybnEhvuX1XdYxnj8AvSZfH08hCePKZTvzrQ&oe=65E626AE",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308176785_1238952113562259_6591424174772039070_n.jpg?stp=dst-jpg_p552x414&_nc_cat=105&ccb=1-7&_nc_sid=c42490&_nc_ohc=KjBjOhzc-M8AX-M8Tr8&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCLfao_fsTeFnkS0BxMpwFZJQh7nmmn3XIjvZAkfUixSg&oe=65E78728",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308411369_1238952353562235_8684171621970882826_n.jpg?stp=dst-jpg_p526x395&_nc_cat=110&ccb=1-7&_nc_sid=c42490&_nc_ohc=mK0jWCfUW0wAX84Q66I&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDwOmZVF2_GczIvxCsZDfgulVhuwvHAkjbLg1Omq9SQKw&oe=65E721BF"
+        ]
+    },
+    {
+        "competitor_name": "Pilli Soso",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/309025040_3185940405004891_6986565771512174351_n.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=c42490&_nc_ohc=raDcVEFud0IAX-Vrbmz&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBb--zn9NC4rkGOWeHbRf4dRm51tQlzn0hwXyvOMjI_yA&oe=65E5EBE9"
+        ]
+    },
+    {
+        "competitor_name": "Novel RH",
+        "Extracted_number": "80",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/305067509_3437847126440190_6106216720304973932_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=c42490&_nc_ohc=WNa2M6nPb7gAX9TqUGB&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCyy1rl9CxU9rP_fKbACXobLycuitaIamf9gW49dbkmCg&oe=65E7802C",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/305202694_3437833406441562_2978303701651321782_n.jpg?stp=dst-jpg_s600x600&_nc_cat=105&ccb=1-7&_nc_sid=c42490&_nc_ohc=pD4nZHJRdUkAX8YQS3u&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA-FJUrYl8l9T5WeKp0W10ywpQwn0RzclLSep9VtriSWQ&oe=65E6AF50",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/307517063_3437833643108205_2089696680873518836_n.jpg?stp=dst-jpg_p526x395&_nc_cat=102&ccb=1-7&_nc_sid=c42490&_nc_ohc=eROFNGf957EAX_KKzeB&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBm2-dCKyKx6LevViick4n13ihg5QJJsOAMQPcQhhni3g&oe=65E6530A",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/305922121_3437847209773515_2311657708441040013_n.jpg?stp=dst-jpg_p526x395&_nc_cat=111&ccb=1-7&_nc_sid=c42490&_nc_ohc=ArlCsrjUvLYAX9bvsVU&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBzUxi_a_KuxZnuEh76VAG-3Xa8uPmT_QpiiaLPN6iFpw&oe=65E72BFF",
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/305999996_3437833546441548_454612243759462910_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=c42490&_nc_ohc=9RDRBc5DEdAAX8fI5dt&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBh8_QfcEnStJdt07fhNL3XXS3MLV-kGvCqH_W6zpJCnw&oe=65E677D9"
+        ]
+    },
+    {
+        "competitor_name": "Ragib Pashan",
+        "Extracted_number": "32",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/306096678_1151273209070776_9221176670878262600_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-7&_nc_sid=c42490&_nc_ohc=p3XbbSTsIm8AX-AJFcV&_nc_ht=scontent.fdac8-1.fna&oh=00_AfB8aa44QLtIEYn290RVJ50DzvNC78UrVpwXIXmkEx1ROQ&oe=65E79F1F"
+        ]
+    }
+]
+
+
+
+
+
+import os
+import requests
+
+# Function to download images
+def download_images(data):
+    for idx, item in enumerate(data):
+        # Extract information from the dictionary
+        competitor_name = item.get("competitor_name", "Unknown")
+        extracted_number = item.get("Extracted_number", "Unknown")
+        image_links = item.get("ImageLinks", [])
+
+        # Create a directory to save images if it doesn't exist
+        directory = f"{competitor_name}_{extracted_number}"
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+
+        # Download images
+        for i, link in enumerate(image_links):
+            filename = f"{competitor_name}_{extracted_number}_{i+1}.jpg"
+            filepath = os.path.join(directory, filename)
+            with open(filepath, "wb") as f:
+                response = requests.get(link)
+                f.write(response.content)
+            print(f"Image {i+1} for {competitor_name} downloaded successfully!")
+
+# Define the data containing the dictionaries
+data = [
+    {
+        "competitor_name": "onpseStordgiiSe6329i2hmt42c7h91r ic2lmlef,02c2pb2h8e0l5u36 8",
+        "Extracted_number": "167",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308777881_871534893828654_923035329057494861_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=c42490&_nc_ohc=xwQSb5BeHSwAX8ny1x0&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDTec25isgDeZehYqqsT3MlX0LU5YwpuJLLp-twqJpOMg&oe=65E69410"
+        ]
+    },
+    {
+        "competitor_name": "Mahfuzur Rahman",
+        "Extracted_number": "93",
+        "ImageLinks": [
+            "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/308570000_430881072480880_4560096973654022019_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=c42490&_nc_ohc=s6-YMnr-7LUAX8I9BDp&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDg0wi76jmW6zN1fKPkL0EzivGkmbvJ1hhTgGbThW-u6Q&oe=65E6527A"
+        ]
+    },
+    # Add the remaining dictionaries here...
+]
+
+# Call the function to download images
+download_images(data)
